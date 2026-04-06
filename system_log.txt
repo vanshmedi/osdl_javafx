@@ -1,0 +1,26 @@
+2026-04-04T01:17:11.262524300 - [abc] - Room 102 booked by asd (ID: 123)
+2026-04-04T01:17:25.984710300 - [abc] - Checkout processed for Room 102 (asd)
+2026-04-04T01:22:56.491191500 - [admin] - Added new STANDARD room 103
+2026-04-04T01:23:09.128435500 - [admin] - Removed room 103
+2026-04-04T01:31:15.171225200 - [abc] - Room 201 booked by ad (ID: 123)
+2026-04-04T01:32:12.592954900 - [abc] - CHECKOUT — Room 201 | Guest: ad (ID: 123) | Check-In: 2026-04-04 01:31:15 | Days: 4 | Rate: ₹250.00/night | TOTAL CHARGED: ₹1000.00
+2026-04-04T01:33:03.169907800 - [admin] - Added new STANDARD room 103
+2026-04-04T01:33:58.271554100 - [abc] - Room 103 booked by krjk (ID: 123)
+2026-04-04T01:35:00.142747800 - [admin] - CHECKOUT — Room 103 | Guest: krjk (ID: 123) | Check-In: 2026-04-04 01:33:58 | Days: 1 | Rate: ₹100.00/night | TOTAL CHARGED: ₹100.00
+2026-04-05T17:41:15.073922700 - [admin] - Updated room 102 rate from ₹100.00 to ₹123.00
+2026-04-05T17:41:32.121278600 - [admin] - Updated room 102 rate from ₹123.00 to ₹1.00
+2026-04-05T17:42:49.345185700 - [abc] - Room 102 booked by a cg (ID: 123)
+2026-04-05T17:43:11.019866500 - [abc] - CHECKOUT - Room 102 | Guest: a cg (ID: 123) | Check-In: 2026-04-05 17:42:49 | Days: 45 | Rate: ₹1.00/night | AC: ₹675.00 | TOTAL CHARGED: ₹806.40
+2026-04-05T17:44:11.058292300 - [admin] - Updated room 102 rate from ₹1.00 to ₹100.00
+2026-04-05T17:44:34.105612300 - [admin] - Added new DELUXE room 1011 [AC] [WiFi]
+2026-04-05T17:44:59.106840700 - [admin] - Removed room 201
+2026-04-05T17:46:31.361433100 - [abc] - Room 1011 booked by adsfdghj (ID: qw)
+2026-04-05T17:47:37.177646900 - [abc] - CHECKOUT - Room 1011 | Guest: adsfdghj (ID: qw) | Check-In: 2026-04-05 17:46:31 | Days: 11 | Rate: ₹250.00/night | AC: ₹165.00 | WiFi: ₹110.00 | TOTAL CHARGED: ₹3388.00
+2026-04-05T20:48:13.411586600 - [abc] - Room 102 booked by 123 (ID: avc)
+2026-04-05T20:48:29.699524800 - [abc] - CHECKOUT - Room 102 | Guest: 123 (ID: avc) | Check-In: 2026-04-05 20:48:13 | Days: 123 | Rate: ₹100.00/night | AC: ₹1845.00 | TOTAL CHARGED: ₹15842.40
+2026-04-05T20:49:21.210604100 - [admin] - Room 101 booked by 123 (ID: 123)
+2026-04-05T20:50:23.658163300 - [admin] - CHECKOUT - Room 101 | Guest: 123 (ID: 123) | Check-In: 2026-04-05 20:49:21 | Days: 10 | Rate: ₹100.00/night | TOTAL CHARGED: ₹1120.00
+2026-04-05T23:18:39.886679200 - [abc] - Room 202 booked by asdfghj (ID: 123456)
+2026-04-05T23:19:21.972374300 - [abc] - CHECKOUT - Room 202 | Guest: asdfghj (ID: 123456) | Check-In: 2026-04-05 23:18:39 | Days: 3 | Rate: ₹250.00/night | AC: ₹45.00 | WiFi: ₹30.00 | TOTAL CHARGED: ₹924.00
+2026-04-05T23:38:43.857307300 - [admin] - Room 101 booked by zsdf (ID: 123)
+2026-04-05T23:39:07.931374300 - [admin] - CHECKOUT - Room 101 | Guest: zsdf (ID: 123) | Check-In: 2026-04-05 23:38:43 | Days: 3 | Rate: ₹100.00/night | TOTAL CHARGED: ₹336.00
